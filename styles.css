@@ -68,7 +68,7 @@ nav a:hover{
 }
 
 /* IMAGEN PARA CELULAR */
-@media(max-width:720px){
+@media(max-width:768px){
   .hero{
     background:url('img/logo-mobile.png') center / cover no-repeat;
   }
