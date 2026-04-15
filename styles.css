@@ -57,14 +57,21 @@ nav a:hover{
 
 /* HERO */
 .hero{
-  height: 100vh;
-  background: url('img/logo.png') center top/cover no-repeat;
+  height:100vh;
+  background:url('img/logo.png') center / cover no-repeat;
   display:flex;
   justify-content:center;
   align-items:center;
   text-align:center;
   position:relative;
   color:white;
+}
+
+/* IMAGEN PARA CELULAR */
+@media(max-width:768px){
+  .hero{
+    background:url('img/logo-mobile.png') center / cover no-repeat;
+  }
 }
 
 .hero::before{
