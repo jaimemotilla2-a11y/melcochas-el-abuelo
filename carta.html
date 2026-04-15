@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carta - Melcochas El Abuelo</title>
+
+<meta name="description" content="Descubre nuestra deliciosa carta de melcochas y dulces tradicionales.">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="img/logo.png">
+</head>
+
+<body>
+
+<header class="navbar">
+  <img src="img/logo.jpg" class="logo" alt="Logo Melcochas El Abuelo">
+  <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+
+  <nav id="nav">
+    <a href="index.html">Inicio</a>
+  </nav>
+</header>
+
+<section class="seccion-carta">
+  <h1>Nuestra Carta</h1>
+  <p class="descripcion-carta">
+    Conoce nuestras deliciosas melcochas hechas de forma artesanal 🍬
+  </p>
+  <div id="contenedor-secciones" class="grid-secciones"></div>
+</section>
+
+<!-- MODAL -->
+<div id="modal" class="modal">
+  <span class="cerrar" onclick="cerrarModal()">✖</span>
+  <img id="imgModal" alt="Imagen del producto">
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
