@@ -130,8 +130,8 @@ const secciones = [
       {nombre:"platanitos", precio:3000, img:"otro4.jpeg"},
       {nombre:"paquete de roscon ", precio:3500, img:"otro5.png"},
       {nombre:"paquete de roscon duro", precio:3500, img:"otro6.jpeg"},
-      {nombre:"paquete de roscon ", precio:3500, img:"otro7.png"},
-      {nombre:"paquete de roscon ", precio:3500, img:"otro8.png"},
+      {nombre:"paquete de roscon ", precio:3500, img:"otros7.png"},
+      {nombre:"paquete de roscon ", precio:3500, img:"otros8.png"},
     ]
   }
 ];
