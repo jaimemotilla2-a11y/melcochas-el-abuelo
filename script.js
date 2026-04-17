@@ -60,78 +60,77 @@ const secciones = [
   {
     nombre:"Melcochas Tradicionales",
     productos:[
-      {nombre:"Melcocha x4", precio:2000, img:"melcocha1.png"},
-      {nombre:"Melcocha x5", precio:2000, img:"melcocha2.png"},
-      {nombre:"Melcocha x8", precio:2500, img:"melcocha3.png"},
-      {nombre:"Melcocha envuelta grande", precio:2500, img:"melcocha9.png"},
-      {nombre:"Melcocha envuelta gigante", precio:2500, img:"melcocha10.png"},
-      {nombre:"Melcocha Caja", precio:2500, img:"melcocha4.png"},
-      {nombre:"Melcocha envuelta pequeña", precio:3000, img:"melcocha5.png"},
-      {nombre:"Melcocha envuelta mediana", precio:2000, img:"melcocha6.jpg"},
-      {nombre:"Melcocha envuelta grande", precio:2500, img:"melcocha7.png"},
-      {nombre:"Melcocha envuelta gigante", precio:2500, img:"melcocha8.jpg"}
+      {nombre:"Melcocha x4", precio:4000, img:"melcocha1.png"},
+      {nombre:"Melcocha x5", precio:5000, img:"melcocha2.png"},
+      {nombre:"Melcocha x8", precio:8000, img:"melcocha3.png"},
+      {nombre:"Melcocha x13", precio:7000, img:"melcocha9.png"},
+      {nombre:"Melcocha x27", precio:15000, img:"melcocha10.png"},
+      {nombre:"Melcocha Caja x11", precio:6000, img:"melcocha4.png"},
+      {nombre:"Melcocha envuelta pequeña", precio:2000, img:"melcocha5.png"},
+      {nombre:"Melcocha envuelta mediana", precio:3000, img:"melcocha6.jpg"},
+      {nombre:"Melcocha envuelta grande", precio:5000, img:"melcocha7.png"},
+      {nombre:"Melcocha envuelta gigante", precio:10000, img:"melcocha8.jpg"}
     ]
   },
   {
     nombre:"Maní",
     productos:[
-      {nombre:"Bolitas de mani Pequeñas", precio:2000, img:"mani_bolitas1.jpeg"},
-      {nombre:"Bolitas de mani grandes", precio:3000, img:"mani_bolitas2.png"},
-      {nombre:"Bolitas de mani caja", precio:4000, img:"mani_bolitas3.jpeg"},
+      {nombre:"Bolitas de mani Pequeñas x3", precio:1000, img:"mani_bolitas1.jpeg"},
+      {nombre:"Bolitas de mani grandes x10", precio:4000, img:"mani_bolitas2.png"},
+      {nombre:"Bolitas de mani caja", precio:8000, img:"mani_bolitas3.jpeg"},
       {nombre:"Mani salado personal", precio:5000, img:"mani_bolitas4.png"},
       {nombre:"Mani salado mini", precio:2000, img:"mani_bolitas5.png"},
-      {nombre:"Mani dulce personal", precio:3000, img:"mani_bolitas6.png"},
-      {nombre:"Mani dulce mini", precio:4000, img:"mani_bolitas7.png"},
-      {nombre:"Mani con pasas personal", precio:5000, img:"mani_bolitas8.png"},
-      {nombre:"Mani con pasas mini", precio:2000, img:"mani_bolitas9.png"},
-      {nombre:"Mani solo mini", precio:3000, img:"mani_bolitas10.png"},
-      {nombre:"Mani solo cuarto de libra", precio:4000, img:"mani_bolitas11.png"},
-      {nombre:"Mani solo media libra", precio:5000, img:"mani_bolitas12.png"},
-      {nombre:"Mani solo libra", precio:2000, img:"mani_bolitas13.png"},
-      {nombre:"Mani en vaina bolsa pequeña", precio:3000, img:"mani_bolitas14.png"},
-      {nombre:"Mani en vaina bolsa grande", precio:4000, img:"mani_bolitas15.png"},
-      {nombre:"Bolitas de mani molido", precio:5000, img:"mani_bolitas16.png"},
-      {nombre:"Bolitas de mani molido mediana", precio:4000, img:"mani_bolitas17.png"},
-      {nombre:"Bolitas de mani molido grande", precio:5000, img:"mani_bolitas18.png"}
+      {nombre:"Mani dulce personal", precio:5000, img:"mani_bolitas6.png"},
+      {nombre:"Mani dulce mini", precio:2000, img:"mani_bolitas7.png"},
+      {nombre:"Mani salado con pasas personal", precio:5000, img:"mani_bolitas8.png"},
+      {nombre:"Mani salado con pasas mini", precio:2000, img:"mani_bolitas9.png"},
+      {nombre:"Mani solo mini", precio:1000, img:"mani_bolitas10.png"},
+      {nombre:"Mani tostado media libra", precio:6000, img:"mani_bolitas11.png"},
+      {nombre:"Mani tostado libra", precio:12000, img:"mani_bolitas12.png"},
+      {nombre:"Mani tostado kilo", precio:24000, img:"mani_bolitas13.png"},
+      {nombre:"Mani en vaina bolsa grande", precio:6000, img:"mani_bolitas15.png"},
+      {nombre:"Bolita de mani molido", precio:1000, img:"mani_bolitas16.png"},
+      {nombre:"mani molido media libra", precio:6000, img:"mani_bolitas17.png"},
+      {nombre:"mani molido libra", precio:12000, img:"mani_bolitas18.png"}
     ]
   },
   {
     nombre:"Paspitas",
     productos:[
-      {nombre:"Paspitas mini", precio:2000, img:"paspitas1.png"},
-      {nombre:"Paspitas personal", precio:2000, img:"paspitas2.png"},
-      {nombre:"Paspitas grande", precio:2500, img:"paspitas3.png"},
-      {nombre:"Paspitas familiar", precio:3000, img:"paspitas4.png"},
-      {nombre:"Paspitas caja pequeña", precio:3500, img:"paspitas5.png"},
-      {nombre:"Paspitas caja grande", precio:3500, img:"paspitas6.png"}
+      {nombre:"Paspitas mini", precio:1000, img:"paspitas1.png"},
+      {nombre:"Paspitas personal", precio:1000, img:"paspitas2.png"},
+      {nombre:"Paspitas grande", precio:4000, img:"paspitas3.png"},
+      {nombre:"Paspitas familiar", precio:9000, img:"paspitas4.png"},
+      {nombre:"Paspitas caja pequeña", precio:6000, img:"paspitas5.png"},
+      {nombre:"Paspitas caja grande", precio:10000, img:"paspitas6.png"}
     ]
   },
   {
     nombre:"DULCES",
     productos:[
-      {nombre:"caja bolitas de tamarindo", precio:2000, img:"dulce1.jpeg"},
-      {nombre:"vasito de dulce de leche", precio:2000, img:"dulce2.jpeg"},
-      {nombre:"caja de gomas de colores", precio:2500, img:"dulce3.jpeg"},
-      {nombre:"caja de panelitas de coco", precio:3000, img:"dulce4.jpeg"},
-      {nombre:"caja de masmelos", precio:3500, img:"dulce5.jpeg"},
-      {nombre:"caja de panelitas", precio:3500, img:"dulce6.jpeg"},
-      {nombre:"caja de gomas de colores", precio:2500, img:"dulce7.png"},
-      {nombre:"caja de panelitas de coco", precio:3000, img:"dulce8.png"},
-      {nombre:"caja de masmelos", precio:3500, img:"dulce9.png"},
-      {nombre:"caja de panelitas", precio:3500, img:"dulce10.png"}
+      {nombre:"caja bolitas de tamarindo", precio:8000, img:"dulce1.jpeg"},
+      {nombre:"vasito de manjar blanco", precio:4000, img:"dulce2.jpeg"},
+      {nombre:"caja de gomas de colores", precio:8000, img:"dulce3.jpeg"},
+      {nombre:"caja de panelitas de coco", precio:8000, img:"dulce4.jpeg"},
+      {nombre:"caja de masmelos con chispitas", precio:8000, img:"dulce5.jpeg"},
+      {nombre:"caja de panelitas", precio:8000, img:"dulce6.jpeg"},
+      {nombre:"caja de masmelos ", precio:8000, img:"dulce7.png"},
+      {nombre:"caja de cocadas en bolitas", precio:8000, img:"dulce8.png"},
+      {nombre:"caja de cocadas", precio:8000, img:"dulce9.png"},
+      {nombre:"caja de cocadas", precio:8000, img:"dulce10.png"}
     ]
   },
   {
     nombre:"Otros productos",
     productos:[
-      {nombre:"cafe artesanal molido", precio:2000, img:"otro1.jpeg"},
-      {nombre:"panela molida", precio:2000, img:"otro2.jpeg"},
-      {nombre:"achiras", precio:2500, img:"otro3.jpeg"},
+      {nombre:"cafe artesanal molido", precio:30000, img:"otro1.jpeg"},
+      {nombre:"panela molida", precio:10000, img:"otro2.jpeg"},
+      {nombre:"achiras", precio:3000, img:"otro3.jpeg"},
       {nombre:"platanitos", precio:3000, img:"otro4.jpeg"},
-      {nombre:"paquete de roscon ", precio:3500, img:"otro5.png"},
-      {nombre:"paquete de roscon duro", precio:3500, img:"otro6.jpeg"},
-      {nombre:"paquete de roscon ", precio:3500, img:"otros7.png"},
-      {nombre:"paquete de roscon ", precio:3500, img:"otros8.png"},
+      {nombre:"paquete de roscon ", precio:6000, img:"otro5.png"},
+      {nombre:"paquete de roscon duro", precio:5000, img:"otro6.jpeg"},
+      {nombre:"paquete de empanadillas x3 ", precio:2500, img:"otros7.png"},
+      {nombre:"paquete de empanadillas x6 ", precio:5000, img:"otros8.png"},
     ]
   }
 ];
