@@ -160,7 +160,7 @@ function generarCarta(){
           <img src="img/${prod.img}" alt="${prod.nombre}" onclick="abrirModal(this.src)">
           <p>${prod.nombre}</p>
           <p>${formatearPrecio(prod.precio)}</p>
-          <a href="https://wa.me/573018381880?text=${mensaje}" target="_blank">
+          <a href="https://wa.me/573147524687?text=${mensaje}" target="_blank">
             Pedir por WhatsApp
           </a>
         </div>
