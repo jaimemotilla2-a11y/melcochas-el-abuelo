@@ -65,7 +65,7 @@ const secciones = [
       {nombre:"Melcocha x8", precio:8000, img:"melcocha3.png"},
       {nombre:"Melcocha x13", precio:7000, img:"melcocha9.png"},
       {nombre:"Melcocha x27", precio:15000, img:"melcocha10.png"},
-      {nombre:"Melcocha Caja x11", precio:6000, img:"melcocha4.png"},
+      {nombre:"Melcocha Tarrina x11", precio:6000, img:"melcocha4.png"},
       {nombre:"Melcocha envuelta pequeña", precio:2000, img:"melcocha5.png"},
       {nombre:"Melcocha envuelta mediana", precio:3000, img:"melcocha6.jpg"},
       {nombre:"Melcocha envuelta grande", precio:5000, img:"melcocha7.png"},
@@ -77,7 +77,7 @@ const secciones = [
     productos:[
       {nombre:"Bolitas de mani Pequeñas x3", precio:1000, img:"mani_bolitas1.jpeg"},
       {nombre:"Bolitas de mani grandes x10", precio:4000, img:"mani_bolitas2.png"},
-      {nombre:"Bolitas de mani caja", precio:8000, img:"mani_bolitas3.jpeg"},
+      {nombre:"Bolitas de mani tarrina x23", precio:8000, img:"mani_bolitas3.jpeg"},
       {nombre:"Mani salado personal", precio:5000, img:"mani_bolitas4.png"},
       {nombre:"Mani salado mini", precio:2000, img:"mani_bolitas5.png"},
       {nombre:"Mani dulce personal", precio:5000, img:"mani_bolitas6.png"},
@@ -101,8 +101,8 @@ const secciones = [
       {nombre:"Paspitas personal", precio:1000, img:"paspitas2.png"},
       {nombre:"Paspitas grande", precio:4000, img:"paspitas3.png"},
       {nombre:"Paspitas familiar", precio:9000, img:"paspitas4.png"},
-      {nombre:"Paspitas caja pequeña", precio:6000, img:"paspitas5.png"},
-      {nombre:"Paspitas caja grande", precio:10000, img:"paspitas6.png"}
+      {nombre:"Paspitas tarrina pequeña", precio:6000, img:"paspitas5.png"},
+      {nombre:"Paspitas tarrina grande", precio:10000, img:"paspitas6.png"}
     ]
   },
   {
