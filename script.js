@@ -63,13 +63,13 @@ const secciones = [
       {nombre:"Melcocha x4", precio:2000, img:"melcocha1.png"},
       {nombre:"Melcocha x5", precio:2000, img:"melcocha2.png"},
       {nombre:"Melcocha x8", precio:2500, img:"melcocha3.png"},
+      {nombre:"Melcocha envuelta grande", precio:2500, img:"melcocha9.png"},
+      {nombre:"Melcocha envuelta gigante", precio:2500, img:"melcocha10.png"},
       {nombre:"Melcocha Caja", precio:2500, img:"melcocha4.png"},
       {nombre:"Melcocha envuelta pequeña", precio:3000, img:"melcocha5.png"},
       {nombre:"Melcocha envuelta mediana", precio:2000, img:"melcocha6.jpg"},
       {nombre:"Melcocha envuelta grande", precio:2500, img:"melcocha7.png"},
-      {nombre:"Melcocha envuelta gigante", precio:2500, img:"melcocha8.jpg"},
-      {nombre:"Melcocha envuelta grande", precio:2500, img:"melcocha9.png"},
-      {nombre:"Melcocha envuelta gigante", precio:2500, img:"melcocha10.png"}
+      {nombre:"Melcocha envuelta gigante", precio:2500, img:"melcocha8.jpg"}
     ]
   },
   {
