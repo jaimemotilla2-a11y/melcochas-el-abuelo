@@ -99,7 +99,7 @@ const secciones = [
     productos:[
       {nombre:"Paspitas mini", precio:1000, img:"paspitas1.png"},
       {nombre:"Paspitas personal", precio:1000, img:"paspitas2.png"},
-      {nombre:"Paspitas grande", precio:4000, img:"paspitas3.png"},
+      {nombre:"Paspitas grande x10", precio:4000, img:"paspitas3.png"},
       {nombre:"Paspitas familiar", precio:9000, img:"paspitas4.png"},
       {nombre:"Paspitas tarrina pequeña", precio:6000, img:"paspitas5.png"},
       {nombre:"Paspitas tarrina grande", precio:10000, img:"paspitas6.png"}
