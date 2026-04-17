@@ -68,6 +68,8 @@ const secciones = [
       {nombre:"Melcocha envuelta mediana", precio:2000, img:"melcocha6.jpg"},
       {nombre:"Melcocha envuelta grande", precio:2500, img:"melcocha7.png"},
       {nombre:"Melcocha envuelta gigante", precio:2500, img:"melcocha8.jpg"},
+      {nombre:"Melcocha envuelta grande", precio:2500, img:"melcocha9.png"},
+      {nombre:"Melcocha envuelta gigante", precio:2500, img:"melcocha10.png"}
     ]
   },
   {
@@ -112,7 +114,11 @@ const secciones = [
       {nombre:"caja de gomas de colores", precio:2500, img:"dulce3.jpeg"},
       {nombre:"caja de panelitas de coco", precio:3000, img:"dulce4.jpeg"},
       {nombre:"caja de masmelos", precio:3500, img:"dulce5.jpeg"},
-      {nombre:"caja de panelitas", precio:3500, img:"dulce6.jpeg"}
+      {nombre:"caja de panelitas", precio:3500, img:"dulce6.jpeg"},
+      {nombre:"caja de gomas de colores", precio:2500, img:"dulce7.png"},
+      {nombre:"caja de panelitas de coco", precio:3000, img:"dulce8.png"},
+      {nombre:"caja de masmelos", precio:3500, img:"dulce9.png"},
+      {nombre:"caja de panelitas", precio:3500, img:"dulce10.png"}
     ]
   },
   {
@@ -123,7 +129,9 @@ const secciones = [
       {nombre:"achiras", precio:2500, img:"otro3.jpeg"},
       {nombre:"platanitos", precio:3000, img:"otro4.jpeg"},
       {nombre:"paquete de roscon ", precio:3500, img:"otro5.png"},
-      {nombre:"paquete de roscon duro", precio:3500, img:"otro6.jpeg"}
+      {nombre:"paquete de roscon duro", precio:3500, img:"otro6.jpeg"},
+      {nombre:"paquete de roscon ", precio:3500, img:"otro7.png"},
+      {nombre:"paquete de roscon ", precio:3500, img:"otro8.png"},
     ]
   }
 ];
