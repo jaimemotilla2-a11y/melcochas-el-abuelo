@@ -132,9 +132,9 @@ const secciones = [
       {nombre:"paquete de roscon duro", precio:5000, img:"otro6.jpeg"},
       {nombre:"paquete de empanadillas x3 ", precio:2500, img:"otros7.png"},
       {nombre:"paquete de empanadillas x6 ", precio:5000, img:"otros8.png"},
-      {nombre:"paquete de roscon duro", precio:5000, img:"otro9.png"},
-      {nombre:"paquete de empanadillas x3 ", precio:2500, img:"otro10.png"},
-      {nombre:"paquete de empanadillas x6 ", precio:5000, img:"otro11.png"}
+      {nombre:"Canasta de zuncho", precio:40000, img:"otro9.png"},
+      {nombre:"Canasta de zuncho ", precio:40000, img:"otro10.png"},
+      {nombre:"Canasta de zuncho", precio:35000, img:"otro11.png"}
     ]
   }
 ];
